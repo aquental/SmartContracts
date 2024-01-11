@@ -5,26 +5,30 @@ Jan/2024
 
 [Tasks](https://forms.gle/k36cuefTTwchdPHw7)
 
+[Bootcamp - Solange](https://github.com/solangegueiros/chainlink-bootcamp-2024)
+
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000)
+
 [Link to Luma](https://lu.ma/ig70bk68)
 
-- [Dia 1](https://www.youtube.com/watch?v=mH2hkWG6OS8)
+- [Fundamentos de Blockchain, Web3 e Wallets](https://www.youtube.com/watch?v=mH2hkWG6OS8)
 
-- [​Dia 2](https://www.youtube.com/watch?v=VaXAPYXSdGc)
+- [​Fundamentos de Solidity](https://www.youtube.com/watch?v=VaXAPYXSdGc)
 
-​- [Dia 3](https://www.youtube.com/watch?v=fi1Hkc3sS5U)
+​- [Oráculos, Tokens ERC20 e Chainlink Data Feeds](https://www.youtube.com/watch?v=fi1Hkc3sS5U)
 
-​- [Dia 4](https://www.youtube.com/watch?v=qpymWhQUDOQ)
+​- [Cross-Chain Tokens Utilizando Chainlink CCIP](https://www.youtube.com/watch?v=qpymWhQUDOQ)
 
-​- [Dia 5](https://www.youtube.com/watch?v=tWjbsnSGl6I)
+​- [Sessão de Mentoria com a Comunidade Chainlink](https://www.youtube.com/watch?v=tWjbsnSGl6I)
 
-- ​[Dia 6](https://www.youtube.com/watch?v=jXtLZxuQix0)
+- ​[NFTs e Chainlink Automation](https://www.youtube.com/watch?v=jXtLZxuQix0)
 
-- ​[Dia 7](https://www.youtube.com/watch?v=EpWqMQaHV6I)
+- ​[Chainlink CCIP em dApps Cross-Chain](https://www.youtube.com/watch?v=EpWqMQaHV6I)
 
-- ​[Dia 8](https://www.youtube.com/watch?v=vbVDNhGnDRI)
+- ​[Números Aleatórios Utilizando Chainlink VRF](https://www.youtube.com/watch?v=vbVDNhGnDRI)
 
-​- [Dia 9](https://www.youtube.com/watch?v=tRDVuKskfv4)
+​- [Chainlink Functions Para Acessar Dados Offchain](https://www.youtube.com/watch?v=tRDVuKskfv4)
 
-​- [Dia 10](https://www.youtube.com/watch?v=XZW00WXaJQU)
+​- [Conectando o Mundo Utilizando a Plataforma Chainlink](https://www.youtube.com/watch?v=XZW00WXaJQU)
 
 [Dev Portal](https://dev.chain.link/)
