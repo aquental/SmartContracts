@@ -19,3 +19,7 @@ Autorizar a emitir tokens
 MINTER_ROLE 0x9f2df0fed2c77648de5860a4cc508cd0818c85b8b8a1ab4ceeef8d981c8956a6
 grant_ROLE 0x27C615A1f30800967780E32Ba8A3A90905570213
 account
+
+
+Fuji
+https://chainlist.org/chain/43113
