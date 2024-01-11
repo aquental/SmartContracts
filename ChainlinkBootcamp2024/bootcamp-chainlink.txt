@@ -1,0 +1,21 @@
+Antonio Quental - São Paulo, Brasil - https://www.linkedin.com/in/antonioquental/
+
+https://remix.ethereum.org/
+
+“Create a 3D illustration of an animated character sitting casually on top of a social media logo ‘LinkedIn’ based on a personal picture. The background is a social media profile page with the user name Antonio Quental and a profile picture that matches the animated character.”
+
+Antonio Quental - [1:] 0xb44d87BAf9407d82d03BDa48209d9fE32F256203 - [2:] 0xe31B3F8476fC1ad52e0A2eD354DC44D12f123203 - [tx 2->1] 0x0581a812ceed3e8a03c3124fe3314d43d4d6e9a4705293ef33fc176b089b3136
+
+[Register.sol] 0xFEBfa4F111b8f7EA2Df10cC5CaeA36470AbA720c
+[RegisterAccess.sol] 0x159Fe47856F5c192302C3C1D02c4d8A026752eE3
+[Token.sol] Antonio Quental token: 0x1Ce69022c67Af669f12316028FADcB861fbd5b04
+[TokenShop.sol] Antonio Quental token shop: 0x27C615A1f30800967780E32Ba8A3A90905570213
+
+Mint
+To - 0xb44d87BAf9407d82d03BDa48209d9fE32F256203
+Amount - 10000
+
+Autorizar a emitir tokens
+MINTER_ROLE 0x9f2df0fed2c77648de5860a4cc508cd0818c85b8b8a1ab4ceeef8d981c8956a6
+grant_ROLE 0x27C615A1f30800967780E32Ba8A3A90905570213
+account
