@@ -40,3 +40,17 @@ Chainlink
 [Community Advocate](https://chain.link/community/advocates)
 
 [Developer Expert](https://chain.link/developers/experts)
+
+Smart contracts
+[OpenZeppelin](https://www.openzeppelin.com/)
+
+[roadmap](https://roadmap.sh/blockchain)
+
+[BUILD](https://chain.link/economics/build-program)
+
+[Twitter](https://twitter.com/chainlinkpt)
+
+[Chainlink Ecossystem](https://www.chainlinkecosystem.com/)
+
+Telegram:
+@jeffbeltrao
