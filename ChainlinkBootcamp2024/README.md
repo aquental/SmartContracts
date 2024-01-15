@@ -32,3 +32,25 @@ Jan/2024
 ​- [Conectando o Mundo Utilizando a Plataforma Chainlink](https://www.youtube.com/watch?v=XZW00WXaJQU)
 
 [Dev Portal](https://dev.chain.link/)
+
+Chainlink
+
+[Vagas Chainlink](https://chainlinklabs.com/careers)
+
+[Community Advocate](https://chain.link/community/advocates)
+
+[Developer Expert](https://chain.link/developers/experts)
+
+Smart contracts
+[OpenZeppelin](https://www.openzeppelin.com/)
+
+[roadmap](https://roadmap.sh/blockchain)
+
+[BUILD](https://chain.link/economics/build-program)
+
+[Twitter](https://twitter.com/chainlinkpt)
+
+[Chainlink Ecossystem](https://www.chainlinkecosystem.com/)
+
+Telegram:
+@jeffbeltrao
