@@ -52,9 +52,6 @@ Smart contracts
 
 [Chainlink Ecossystem](https://www.chainlinkecosystem.com/)
 
-Telegram:
-@jeffbeltrao
-
 #YouTube
 [Dia 1](https://www.youtube.com/watch?v=mH2hkWG6OS8)
 
